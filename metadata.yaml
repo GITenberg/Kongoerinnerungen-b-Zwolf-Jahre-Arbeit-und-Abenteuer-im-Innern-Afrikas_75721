@@ -1,0 +1,31 @@
+_repo: Kongoerinnerungen-b-Zwolf-Jahre-Arbeit-und-Abenteuer-im-Innern-Afrikas_75721
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Landbeck, Paul
+    gutenberg_agent_id: '58117'
+    url: http://www.gutenberg.org/2009/agents/58117
+description: ''
+gutenberg_issued: '2025-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75721'
+language: de
+pgterms:marc904: https://archive.org/details/kongoerinnerunge00land
+pgterms:marc905: 20190128104116landbeck
+pgterms:marc906: '1923'
+pgterms:marc907: de
+production_note: Peter Becker, Hans Theyer and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBerlin :$bAugust Scherl G. m. b. H., $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Congo (Democratic Republic) -- Description and travel'
+- !lcsh 'Congo River Valley -- Description and travel'
+- !lcc 'DT'
+- GITenberg
+title: 'Kongoerinnerungen : $b Zwölf Jahre Arbeit und Abenteuer im Innern Afrikas'
+url: http://www.gutenberg.org/ebooks/75721
