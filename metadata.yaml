@@ -1,11 +1,16 @@
 _repo: Kongoerinnerungen-b-Zwolf-Jahre-Arbeit-und-Abenteuer-im-Innern-Afrikas_75721
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75721-h/images/cover.jpg
 creator:
   author:
     agent_name: Landbeck, Paul
     gutenberg_agent_id: '58117'
     url: http://www.gutenberg.org/2009/agents/58117
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75721#Kongoerinnerungen-b-Zwolf-Jahre-Arbeit-und-Abenteuer-im-Innern-Afrikas
 gutenberg_issued: '2025-03-26'
 gutenberg_type: Text
 identifiers:
